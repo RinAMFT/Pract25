@@ -14,7 +14,7 @@ namespace ConsoleApp24
             //int[]omas=now int[] {3,-3,5,6,-7,8}
             foreach(var element in omas)
             {
-                Console.WriteLine($"{element}\t");
+                Console.Write($"{element}\t");
             }
             Console.ReadKey();
         }
